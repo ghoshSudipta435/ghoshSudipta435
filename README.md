@@ -40,6 +40,7 @@
 **💬 Ask me about:** Data Structures & Algorithms • C++ • Machine Learning • Full Stack Development • System Design
 
 **📧 Reach me:** gsudipta435@gmail.com
+**📧 Reach me:** 📱 Phone: (+91) 9907256459
 
 **📄 Know about my experiences:** Highly motivated CS student with a strong academic record (WBJELET Rank 2). Currently working as a SaaS developer intern at Deep Duo Foundation.
 
